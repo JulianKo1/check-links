@@ -2,7 +2,7 @@
 ### Требования:
 - Python 3.14 и выше
 - pip
-### Шаги:
+### Шаги запуска:
 1. Клонируйте репозиторий: 
 ```
 git clone https://github.com/JulianKo1/check-links.git
@@ -17,3 +17,8 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+4. Запустите скрипт:
+```
+python check_links_seo.py
+```
+### Анализ результатов:
